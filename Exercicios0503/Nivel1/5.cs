@@ -10,7 +10,7 @@ namespace Exercicios0503.Nivel1
             Console.WriteLine();
 
             Console.WriteLine("Peça o preço original de um produto e a porcentagem de desconto. Calcule e mostre o preço final após o desconto.");
-            Thread.Sleep(2000);
+            Thread.Sleep(2000);//
             Console.WriteLine();
 
             Console.WriteLine("Informe o preço original do produto: ");
