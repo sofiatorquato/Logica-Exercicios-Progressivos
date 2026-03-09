@@ -52,6 +52,22 @@ namespace Exercicios0503
                     VerificarIdade.Executar();  
                     break;  /*exercicio 3 - nivel 2 - https://github.com/lucasfugisawa/logica-programacao-exercicios-progressivos*/
 
+                case 11:
+                    AprovadoReprovado.Executar();
+                    break;
+
+                case 12:
+                    Senha.Executar();
+                    break;
+
+                case 13:
+                    Idade.Executar();
+                    break;
+
+                case 14:
+                    IMC.Executar();
+                    break;
+
                 default:
                     Console.WriteLine("Opção inválida.");
                     break;
