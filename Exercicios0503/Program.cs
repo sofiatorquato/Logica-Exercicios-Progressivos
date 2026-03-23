@@ -1,5 +1,6 @@
 ﻿using Exercicios0503.Nivel1;
 using Exercicios0503.Nivel2;
+using Exercicios0503.Nivel3;
 
 namespace Exercicios0503
 {
@@ -66,6 +67,45 @@ namespace Exercicios0503
 
                 case 14:
                     IMC.Executar();
+                    break;
+
+                case 15:
+                    Contagem.Executar();
+                    break;
+
+                case 16:
+                    TabuadaFor.Executar();
+                    break;
+
+                case 17:
+                    SomaDeTodos.Executar();
+                    break;
+
+                case 18:
+                    Fatorial.Executar();
+                    break;
+
+                case 19:
+                    ParesAte50.Executar();
+                    break;
+
+                case 20:
+                    Fibonacci.Executar();
+                    break;
+
+                case 21:
+                    Validacao.Executar();
+                    break;
+                case 22:
+                    ContagemRegressiva.Executar();
+                    break;
+
+                case 23:
+                    NumeroPrimo.Executar();
+                    break;
+
+                case 24:
+                    Aleatorio.Executar();
                     break;
 
                 default:
